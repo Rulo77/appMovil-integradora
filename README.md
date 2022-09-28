@@ -10,6 +10,9 @@ Watchman, required only for macOS or Linux users
 install expo-cli:
 npm i -g expo-cli
 
+first step for install dependencies run:
+npm install or npm i
+
 run app:
 expo start
 
